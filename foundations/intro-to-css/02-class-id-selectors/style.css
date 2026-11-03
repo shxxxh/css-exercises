@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.odd{
+    background-color: lightpink;
+    font-family:  Verdana, Dejavu sans, sans-serif;
+   
+
+}
+
+#unique{
+    color: blue;
+    font-size: 36px;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#forth-element{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
